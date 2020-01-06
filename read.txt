@@ -1,0 +1,4 @@
+Cardiology is the section of an hospital.
+"Cardiology Management system"project is the part of an hospital management system.
+I'm  creating a project that is only related to a cardiology section,where all the data about doctor,
+patients are only for the cardiology section. 
